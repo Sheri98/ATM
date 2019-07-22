@@ -44,7 +44,7 @@ class register():
                                command=self.insert).place(x=200, y=290)
         self.quit = Button(self.regframe, text="Quit", bg='#50A8B0', fg='black', font=font, width=10,
                            command=self.window.destroy).place(x=400, y=290)
-        self.login = Buttin(self.regframe,text="Login",bg='#50a8B0' ,fg='black',font=font,width=10,command=self.login).place(x = 400,y=290)
+   
 
         self.regframe.pack()
 
