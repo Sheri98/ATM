@@ -9,6 +9,7 @@ you need python with mysqlite3 running
 login id and password:-
 username : 789456
 password: password
+default user is lorick
 
 database used:-
 
